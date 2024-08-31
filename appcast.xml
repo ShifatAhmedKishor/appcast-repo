@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>App Updates</title>
+    <description>Updates for your app</description>
+    <item>
+      <title>নতুন সংস্করণ ২.০.০ উপলব্ধ</title> <!-- New version 2.0.0 available -->
+      <description>এটি সংস্করণ ২.০.০ এর রিলিজ নোট</description> <!-- Release notes for version 2.0.0 -->
+      <pubDate>Fri, 31 Aug 2024 12:00:00 +0000</pubDate>
+      <!-- You can leave out the <enclosure> tag if the APK is hosted on the Play Store -->
+      <version>2.0.0</version>
+      <minos>1.0.0</minos>
+    </item>
+  </channel>
+</rss>
